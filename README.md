@@ -1,7 +1,7 @@
 # stone
 a mvvm lib for three d scene display
 
-#component
+# component
 import { useState } from 'stone';
 export default function Box() {
   const [color, setColor] = useState("#00ff00");
